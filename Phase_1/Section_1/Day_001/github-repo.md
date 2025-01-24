@@ -7,11 +7,12 @@
 
 ### 3. Add and Commit Change
 Add files to the staging
+![Add files to the staging](image-9.png)
 
 
 Commit the changes
-
+![Commit the changes](image-10.png)
 
 ### 4. Push the changes to the Github
-
+![Push the changes to the Github](image-11.png)
 
