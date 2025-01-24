@@ -16,7 +16,7 @@ Commit the changes
 ### 4. Push the changes to the Github
 ![Push the changes to the Github](image-11.png)
 
-5. Setup SSH key
+### 5. Setup SSH key
 
 Generate SSH key
 ![Generate SSH key](image-12.png)
@@ -28,3 +28,5 @@ Add SSH Key to GitHub
 ![SSH Key](image-14.png)
 ![Add SSH Key to GitHub](image-15.png)
 
+### 6. Create Pull Request
+![Create PR](image-16.png)
